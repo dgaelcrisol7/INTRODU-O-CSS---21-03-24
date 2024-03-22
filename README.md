@@ -108,6 +108,22 @@ Daniel 2:21
     </h1>
     <!--CRIAÇÃO DE PARAGRAFO-->
     <P>
+    --------------------------------------------------
+    body{
+    background-color: darkorange;
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: blanchedalmond;
+}
+---------------------------------------
+PARA COLOCAR COR NO FUNDO DA PAGINA
+
+body {
+    background-color: blue;
+}
 
     </P id="color">chanping color paragraph</P>
     <p id="font - size">chanping font paragraph</p>
